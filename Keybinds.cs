@@ -55,7 +55,6 @@ namespace Keybinds
         public static void Respawn()
         {
             RootLogic.Instance.Respawn();
-            MelonLogger.Msg("Respawned.");
         }
 
         public static void RemoveAllAvatars()
