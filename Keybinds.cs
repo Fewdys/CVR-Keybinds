@@ -10,9 +10,6 @@ namespace Keybinds
 {
     public class Keybinds : MelonMod
     {
-        public static Rigidbody rbcvr;
-        public static Transform trcvr;
-
         public override void OnApplicationStart()
         {
             MelonLogger.Msg(System.ConsoleColor.Green, "- Keybinds -");
