@@ -11,9 +11,8 @@
 /.vs/ProjectSettings.json
 /.vs/VSWorkspaceState.json
 /.vs/Keybinds
-/CVR-Keybinds/.vs/Keybinds/FileContentIndex
-/CVR-Keybinds/.vs/Keybinds/FileContentIndex/9dc6fe61-c5d1-46d0-b06b-6eff8f33da2a.vsidx
-/CVR-Keybinds/.vs/Keybinds/v17
+/CVR-Keybinds/.vs/CVR-Keybinds/FileContentIndex
+/CVR-Keybinds/.vs/CVR-Keybinds/v17
 /CVR-Keybinds/obj
 /CVR-Keybinds/bin
 /obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs
